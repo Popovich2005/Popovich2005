@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://voronezh.hh.ru/resume/ba552b66ff0db0a7760039ed1f47507047334b">
-    <img src="https://img.shields.io/badge/Head Hunter-red?style=for-the-badge&logo=youtube&logoColor=white" alt="hh Badge"/>
+    <img src="https://img.shields.io/badge/Head Hunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
   <a href="https://t.me/Popovich2019">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegramr&logoColor=white" alt="Telegram Badge"/>
