@@ -21,3 +21,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+ :man_technologist: Обо мне :
+
+Я iOS разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+- :telescope: Я работаю инженером-программистом и вношу вклад в iOS разработку для приложений.
+
+- :seedling: Изучаю технический контент.
+
+- :zap: Делаю пет-проекты и читаю технические статьи.
+
+- :mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Popovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Popovich2019)
